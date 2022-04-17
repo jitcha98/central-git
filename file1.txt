@@ -1,2 +1,0 @@
-This is my file1
-I am adding to see git revert function
